@@ -1,2 +1,2 @@
-# tommyweich.github.io/empe.meiji
+# tommyweich.github.io/
 web Emperador Meiji
